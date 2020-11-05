@@ -1,4 +1,4 @@
-{
+var places={
 "type": "FeatureCollection",
 "name": "places",
 "bbox": [ -9.1337400, 32.8998950, 28.8827425, 56.5410000 ],                                                                        
@@ -1101,4 +1101,4 @@
 { "type": "Feature", "properties": { "id": "14069", "modern": "Neuenstadt am Kocher", "latin": "", "greek": "", "ancient": 0, "major": 2, "type": "13", "building": 0, "accuracy": 20, "startyear": -30, "endyear": 300 }, "bbox": [ 9.320869, 49.240005, 9.320869, 49.240005 ], "geometry": { "type": "Point", "coordinates": [ 9.320869, 49.240005 ] } },
 { "type": "Feature", "properties": { "id": "25870", "modern": "Castro de Alvarelhos", "latin": "Avobriga?", "greek": "", "ancient": 1, "major": 2, "type": "13", "building": 0, "accuracy": 20, "startyear": -30, "endyear": 300 }, "bbox": [ -8.61836, 41.30083, -8.61836, 41.30083 ], "geometry": { "type": "Point", "coordinates": [ -8.61836, 41.30083 ] } }
 ]
-}
+};
